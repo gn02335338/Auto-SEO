@@ -1,3 +1,4 @@
+# Auto-SEO
 # RSS 排名器（rss_ranker）
 
 `rss_ranker.py` 是一個用來評估並排列多個 RSS Feed 品質的 Python 指令工具。程式會抓取各 Feed 的文章數量、最近更新時間、發布頻率與規律性，依照權重計算出最終分數，幫助你快速找到值得關注的來源。
